@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A junior web developer from Hungary. (Sadly currently I working as physical worker (Material Handler))
+  A junior web developer from Hungary.
 </p>
 
 <p align='center'>
