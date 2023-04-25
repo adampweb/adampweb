@@ -25,6 +25,8 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   [![GitHub Streak](https://streak-stats.demolab.com?user=adampweb&theme=dark)](https://git.io/streak-stats)<br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adampweb&badges=3&layout=vertical&show-avatar=true&--avatar-size=80px&style=--header-bg-color:%23000;--border-radius:10px"/>
+
 </p>
 
 <p align='center'>
