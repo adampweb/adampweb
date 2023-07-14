@@ -21,11 +21,26 @@
 </p>
                                                                                                                          
 <p align='center'>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adampweb&theme=dark)](https://git.io/streak-stats)<br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adampweb&badges=3&layout=vertical&show-avatar=true&--avatar-size=80px&style=--header-bg-color:%23000;--border-radius:10px"/>
+
+<table>
+  <tr>
+    <td valign="top" colspan="2" rowspan="2">
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adampweb&badges=3&layout=vertical&show-avatar=true&--avatar-size=80px&style=--header-bg-color:%23000;--border-radius:10px" width="460" />
+    </td>
+    <td valign="center" align="center" colspan="2" rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampweb&theme=dark"/>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=adampweb&theme=dark"/>
+    </td>
+    <td valign="top" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=adampweb&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
 </p>
 
@@ -38,7 +53,7 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash"/>
