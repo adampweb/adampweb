@@ -64,7 +64,9 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2019%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -134,5 +136,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/02/2024 11:57:58 UTC
+ Last Updated on 29/02/2024 18:32:46 UTC
 <!--END_SECTION:waka-->
