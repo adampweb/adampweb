@@ -64,4 +64,75 @@
 </p> 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 16.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                347 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌆 Daytime                563 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌃 Evening                567 commits         ██████████░░░░░░░░░░░░░░░   38.39 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Tuesday                  275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Thursday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Sunday                   331 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Budapest
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Shell                    4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/02/2024 11:57:58 UTC
 <!--END_SECTION:waka-->
