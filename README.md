@@ -64,13 +64,13 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 16.8 kB Used in GitHub's Storage 
+> 📦 16.9 kB Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2024
  > 
@@ -107,16 +107,20 @@ Sunday                   331 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     3 mins              █████████████████░░░░░░░░   67.83 % 
+INI                      1 min               █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Sublime Text Config      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             3 mins              ████████████████░░░░░░░░░   64.15 % 
+VS Code                  2 mins              █████████░░░░░░░░░░░░░░░░   35.85 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 mins              ████████████████░░░░░░░░░   64.15 % 
+dev-pm-shell             2 mins              █████████░░░░░░░░░░░░░░░░   35.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +140,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/02/2024 18:32:46 UTC
+ Last Updated on 01/03/2024 18:33:30 UTC
 <!--END_SECTION:waka-->
