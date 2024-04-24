@@ -66,7 +66,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,18 +105,16 @@ Sunday                   339 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Docker                   9 mins              █████████████░░░░░░░░░░░░   52.43 % 
-HTML                     8 mins              ████████████░░░░░░░░░░░░░   47.57 % 
+Docker                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DOCKER_DEBIAN-BULLSEYE   9 mins              █████████████░░░░░░░░░░░░   52.43 % 
-Unknown Project          8 mins              ████████████░░░░░░░░░░░░░   47.57 % 
+DOCKER_DEBIAN-BULLSEYE   9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +134,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2024 18:32:44 UTC
+ Last Updated on 24/04/2024 18:33:00 UTC
 <!--END_SECTION:waka-->
