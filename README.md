@@ -64,13 +64,15 @@
 </p> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 62 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,5 +144,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:34:20 UTC
+ Last Updated on 30/04/2024 18:36:22 UTC
 <!--END_SECTION:waka-->
