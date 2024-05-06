@@ -105,20 +105,16 @@ Sunday                   347 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ███████████████████████░░   91.03 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nextjs-app-catch-all-rout50 mins             ████████████████░░░░░░░░░   65.25 % 
-nextjs-app-logrocket     27 mins             █████████░░░░░░░░░░░░░░░░   34.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,5 +134,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:32:38 UTC
+ Last Updated on 06/05/2024 18:34:56 UTC
 <!--END_SECTION:waka-->
