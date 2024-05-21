@@ -72,8 +72,6 @@
 
 > 📦 18.0 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -107,16 +105,20 @@ Sunday                   347 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     54 mins             █████████████░░░░░░░░░░░░   51.85 % 
+Docker                   38 mins             █████████░░░░░░░░░░░░░░░░   36.78 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shadcn-hide-close        1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +138,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/adampweb/adampweb/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2024 18:35:41 UTC
+ Last Updated on 21/05/2024 18:35:16 UTC
 <!--END_SECTION:waka-->
