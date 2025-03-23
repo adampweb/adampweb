@@ -19,31 +19,7 @@
   </a>&nbsp;&nbsp;                                                                                                                         
   
 </p>
-                                                                                                                         
-<p align='center'>
-
-<table>
-  <tr>
-    <td valign="top" colspan="2" rowspan="2">
-      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adampweb&badges=3&layout=vertical&show-avatar=true&--avatar-size=80px&style=--header-bg-color:%23000;--border-radius:10px" width="460" />
-    </td>
-    <td valign="center" align="center" colspan="2" rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampweb&theme=dark"/>
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=adampweb&theme=dark"/>
-    </td>
-    <td valign="top" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=adampweb&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
-</p>
-
+                                                                                                                        
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
