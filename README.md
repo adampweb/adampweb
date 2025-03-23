@@ -8,24 +8,39 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/adampweb/">
+  <a href="https://www.linkedin.com/in/adampweb/" title="adampweb | LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/6087422/adampweb">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.freecodecamp.org/adampweb">
+  </a>
+  <a href="https://stackexchange.com/users/4552071/adampweb?tab=accounts" title="adampweb | StackExchange">
+    <img src="https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white" />        
+  </a>
+  <a href="https://www.freecodecamp.org/adampweb" title="adampweb | freeCodeCamp">
     <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />        
-  </a>&nbsp;&nbsp;                                                                                                                         
-  
+  </a>
+  <br/>
+  <a href="https://www.instagram.com/adampweb/" title="adampweb | Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  <a href="https://www.tiktok.com/@adampweb" title="adampweb | TikTok">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />        
+  </a>
+  <a href="https://www.tiktok.com/@adampweb" title="adampweb | Reddit">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />        
+  </a>
+  <a href="https://app.daily.dev/adampweb" title="adampweb | daily.dev">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" />        
+  </a>
+  <a href="https://substack.com/@adampweb" title="adampweb | Substack">
+    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />        
+  </a>
 </p>
                                                                                                                         
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Celeron_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%20960-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_12700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB_DDR5-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-RTX%204060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
